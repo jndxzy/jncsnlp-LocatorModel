@@ -1,2 +1,2 @@
-# jncsnlp-LocatorModel
+# LocatorModel
 # code is coming soon...
